@@ -385,7 +385,7 @@ def main():
                 image_path = cover_type_mapping[result]["image_path"]
                 try:
                     image = Image.open(image_path)
-                    st.image(image, use_column_width=True)
+                    st.image(image, use_container_width=True)
                 except Exception as e:
                     st.error(f"Error loading prediction image: {str(e)}")
                     st.error(f"Image path: {image_path}")
