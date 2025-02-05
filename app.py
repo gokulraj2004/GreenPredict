@@ -15,7 +15,7 @@ def check_files_exist():
         os.path.join('Model', 'decision_tree_model.pkl'),
         os.path.join('scaler', 'scaler.pkl'),
         os.path.join('data', 'covtype.csv'),
-        os.path.join('background_image', 'forest2.jpg')
+        os.path.join('Background_image', 'forest2.jpg')
     ]
     
     missing_files = []
