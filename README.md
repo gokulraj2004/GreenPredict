@@ -122,8 +122,6 @@ The application includes comprehensive error handling for:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-[Add your license information here]
 
 ## Acknowledgments
-- Dataset source: [Add dataset source information]
-- Images source: [Add image source information]
+- Dataset source: https://archive.ics.uci.edu/dataset/31/covertype
