@@ -142,7 +142,7 @@ def predict_cover_type(user_input):
 def add_custom_css():
     """Add custom CSS with error handling for background image"""
     try:
-        background_path = os.path.join('background_image', 'forest2.jpg')
+        background_path = os.path.join('Background_image', 'forest2.jpg')
         
         if not os.path.exists(background_path):
             st.error(f"Background image not found at {background_path}")
