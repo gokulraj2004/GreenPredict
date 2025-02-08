@@ -1,5 +1,7 @@
 # Forest Cover Type Prediction Application
 
+Youtube Video Link :- https://youtu.be/ZLu-_UUL7Yk?si=PPOid6XrKI24jmvb
+
 ## Overview
 GreenPredict is a Streamlit-based web application that predicts forest cover types using machine learning. The application takes various geographical and environmental features as input and predicts the type of forest cover present in that area, accompanied by representative images of the predicted forest type.
 
